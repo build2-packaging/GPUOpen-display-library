@@ -1,0 +1,3 @@
+import libs = libgpuopen-adl%lib{gpuopen-adl}
+
+exe{driver}: {h c}{**} $libs testscript{**}

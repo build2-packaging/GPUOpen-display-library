@@ -1,0 +1,9 @@
+: 1
+name: libgpuopen-adl
+version: 18.0.0
+upstream-version: 18.0
+type: lib,binless
+language: c
+project: gpuopen
+summary: AMD Display Library SDK C library
+license: MIT; MIT License.

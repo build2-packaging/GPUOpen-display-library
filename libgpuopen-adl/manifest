@@ -1,6 +1,6 @@
 : 1
 name: libgpuopen-adl
-version: 18.0.0-a.0.z
+version: 18.0.0
 upstream-version: 18.0
 type: lib,binless
 language: c
